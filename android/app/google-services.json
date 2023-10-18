@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87599350297",
+    "project_id": "shift-controller",
+    "storage_bucket": "shift-controller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87599350297:android:cfc1bea87e83dc92d9e088",
+        "android_client_info": {
+          "package_name": "com.example.shift_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87599350297-7kfipaedr1umjka8v7ftiv3illj7n0gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shift_controller",
+            "certificate_hash": "aead9c5a744b02018a868d98cea8fdcd87709e40"
+          }
+        },
+        {
+          "client_id": "87599350297-4mq4elmkvmojjp99m065ro56786uoln7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXtjxM3I6ELw5WvY_4v289ML3BjkOzwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87599350297-4mq4elmkvmojjp99m065ro56786uoln7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
